@@ -1,0 +1,18 @@
+body{
+  background: linear-gradient(rgb(17, 16, 16),rgb(104, 100, 100),rgb(241, 228, 228));
+  
+  height: 1000px;
+}
+.btn{
+  margin-top: 15rem;
+  margin-left: 25rem;
+  width: 100px;
+  height: 80px;
+  font-size: 45px;
+}
+.span{
+  font-size: 100px;
+  margin-left: 25rem;
+  color: cyan;
+  text-shadow: 3px 4px 4px rgb(204, 135, 187);
+}
